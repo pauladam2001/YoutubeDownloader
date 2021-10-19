@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c8898c0-a974-4aaa-ad16-7f2ae0b6d7d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5473b031-558b-4e1a-9c15-c9b289b458b3" />
+  <component name="ProjectId" id="1zjKrjICjlMOijJmloiATVwnBXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paula\PycharmProjects\YoutubeVideoDownloader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="YoutubeVideoDownloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YoutubeVideoDownloader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8898c0-a974-4aaa-ad16-7f2ae0b6d7d1" name="Default Changelist" comment="" />
+      <created>1634656257895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634656257895</updated>
+      <workItem from="1634656273077" duration="8438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1634669420485">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420485" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1634669420485">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420485" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1634669420485">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420485" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1634669420485">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420485" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1634669420483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420483" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1634669420482">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420482" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1634669420482">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420482" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1634669420483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634669420483" />
+    <state x="-1477" y="130" width="1295" height="567" maximized="true" key="dock-window-1" timestamp="1634660170494">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1477" y="130" width="1295" height="567" maximized="true" key="dock-window-1/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634660170494" />
+    <state x="-1433" y="363" width="1295" height="567" maximized="true" key="dock-window-2" timestamp="1634661829933">
+      <screen x="-1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-1433" y="363" width="1295" height="567" maximized="true" key="dock-window-2/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634661829933" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1634665308712">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/1920.0.2560.1032/-1920.0.1920.1032@0.0.1536.816" timestamp="1634665308712" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/YoutubeVideoDownloader$main.coverage" NAME="main Coverage Results" MODIFIED="1634661895225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YoutubeVideoDownloader$start.coverage" NAME="start Coverage Results" MODIFIED="1634669124681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
